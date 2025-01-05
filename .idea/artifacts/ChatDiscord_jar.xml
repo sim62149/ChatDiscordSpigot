@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ChatDiscord:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChatDiscord_jar</output-path>
+    <root id="archive" name="ChatDiscord.jar">
+      <element id="module-output" name="ChatDiscord" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
